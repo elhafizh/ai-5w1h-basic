@@ -1,0 +1,2 @@
+notebook==6.4.5
+spacy==2.3.2
